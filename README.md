@@ -1,16 +1,19 @@
-### Hi there 👋
+## Hello from Brazil, I'm Ian.
 
-<!--
-**ianwelerson/ianwelerson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm bachelor in Information Systems, front-end developer on @UpperSoft, and UI/UX lover.
 
-Here are some ideas to get you started:
+I started my developer career as wordpress developer, but the more I did front-end more I loving it, so I started to focus my energies in front-end. I started to learn about JavaScript, CSS preprocessor, and js frameworks, like Vue.js.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Nowdays I work mostly with Vue.js creating beautiful PWAs, SPA and all kind of things on UpperSoft.
+
+I have experience on JavaScript *(and Vue.js)*, SASS/LESS, PHP *(and Laravel)*, and Wordpress.
+
+Actually I'm working to improve my knowledge in Vue.js, Nuxt.js.
+
+***
+
+📫 Email me at hello@ianwelerson.com
+🎯 Website: https://ianwelerson.com
+👤 LinkedIn: https://www.linkedin.com/in/ianwelerson/
+🐥 Twitter: http://twitter.com/ianwelerson
+💻 StackOverflow: https://stackoverflow.com/users/8883375/ian-welerson
