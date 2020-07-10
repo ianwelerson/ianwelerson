@@ -9,7 +9,7 @@ Nowdays I work mostly with Vue.js creating beautiful PWAs, SPA and all kind of t
 
 I have experience on JavaScript *(and Vue.js)*, SASS/LESS, PHP *(and Laravel)*, and Wordpress.
 
-Actually I'm working to improve my knowledge in Vue.js, Nuxt.js.
+Currently I'm working to improve my knowledge in Vue.js, Nuxt.js.
 
 ***
 
