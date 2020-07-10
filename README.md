@@ -13,7 +13,12 @@ Actually I'm working to improve my knowledge in Vue.js, Nuxt.js.
 ***
 
 📫 Email me at hello@ianwelerson.com
+
 🎯 Website: https://ianwelerson.com
+
 👤 LinkedIn: https://www.linkedin.com/in/ianwelerson/
+
 🐥 Twitter: http://twitter.com/ianwelerson
+
 💻 StackOverflow: https://stackoverflow.com/users/8883375/ian-welerson
+
