@@ -1,9 +1,9 @@
 
 ### Hello from Brazil 🇧🇷
 
-My name is Ian and I'm bachelor in Information Systems, front-end developer on [UpperSoft](https://uppersoft.com.br), and UI/UX lover.
+My name is Ian and I'm bachelor in Information Systems, frontend developer on [UpperSoft](https://uppersoft.com.br), and UI/UX lover.
 
-I started my developer career as wordpress developer, but the more I did front-end more I loving it, so I started to focus my energies in front-end. I started to learn about JavaScript, CSS preprocessor, and js frameworks, like Vue.js.
+I started my developer career as wordpress developer, but the more I did front-end more I loving it, so I started to focus my energies in frontend. I started to learn about JavaScript, CSS preprocessor, and js frameworks, like Vue.js.
 
 Nowdays I work mostly with Vue.js creating beautiful PWAs, SPA and all kind of things on UpperSoft.
 
