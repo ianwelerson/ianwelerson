@@ -1,15 +1,15 @@
 
 ### Hello from Brazil 🇧🇷
 
-My name is Ian and I'm bachelor in Information Systems, frontend developer and UI/UX lover.
+My name is Ian and I'm bachelor in Information Systems and frontend developer.
 
-I started my developer career as wordpress developer, but the more I did front-end more I loving it, so I started to focus my energies in frontend. I started to learn about JavaScript, CSS preprocessor, and js frameworks, like Vue.js.
+I started my career as a full-stack developer (PHP - Laravel and Wordpress), but the greater my contact with the frontend, the more I felt I should focus my energies on this, and go deeper and deeper to make the web a better place.
 
-Nowdays I work mostly with Vue.js creating beautiful PWAs, SPA and all kind of things on UpperSoft.
+After some experiences on frontend I started to focus my attention on HTML, CSS and JavaScript. As time went by, I got deeper into CSS preprocessors, pure JavaScript, and Vue.js. I also acquired a passion for UI and UX, and sometimes I risk a few things in Adobe XD.
 
-I have experience on JavaScript *(and Vue.js)*, SASS/LESS, PHP *(and Laravel)*, and Wordpress.
+I have experience in JavaScript (Vanilla, Vue.js and Nuxt.js), SASS/LESS, PHP (Laravel), Wordpress, GitHub and GitHub Actions, Docker, CSS frameworks (Tailwind and Bootstrap), integrations with RESTful APIs and WebSocket.
 
-Currently I'm working to improve my knowledge in Vue.js, Nuxt.js.
+I always seek to improve and share my knowledge and collaborate to bring the best web experience to everyone.
 
 ***
 
