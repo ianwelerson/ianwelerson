@@ -1,19 +1,19 @@
 
 ### Hello from Brazil 🇧🇷
 
-My name is Ian and I'm bachelor in Information Systems and frontend developer.
+Hi, my name is Ian Welerson.
 
-I started my career as a full-stack developer (PHP - Laravel and Wordpress), but the greater my contact with the frontend, the more I felt I should focus my energies on this, and go deeper and deeper to make the web a better place.
+I'm a front-end developer, graduated in Information System (FAESA), with 4+ years of experience.
 
-After some experiences on frontend I started to focus my attention on HTML, CSS and JavaScript. As time went by, I got deeper into CSS preprocessors, pure JavaScript, and Vue.js. I also acquired a passion for UI and UX, and sometimes I risk a few things in Adobe XD.
+I started in development area as a full-stack developer, working specifically with Wordpress, Laravel, jQuery and Bootstrap. After a short period of time I migrated to the front-end area, getting more knowledge in HTML, CSS and JavaScript (vanilla).
 
-I have experience in JavaScript (Vanilla, Vue.js and Nuxt.js), SASS/LESS, PHP (Laravel), Wordpress, GitHub and GitHub Actions, Docker, CSS frameworks (Tailwind and Bootstrap), integrations with RESTful APIs and WebSocket.
+Currently I have knowledge in CSS pre-processors (LESS, SASS, SCSS), JavaScript (vanilla), JavaScript frameworks (Vue.js, Nuxt.js), CSS frameworks (Tailwind, Bootstrap), unit tests (Jest), E2E tests (Cypress), Docker, Git and GitHub Actions.
 
-I always seek to improve and share my knowledge and collaborate to bring the best web experience to everyone.
+I have already realized integrations with RESTful APIs and Websockets, for short period of time I worked as Node.js developer in a BFF (Back-end For Front-end) API. I also like UI/UX area and have some basic knowledge in Adobe XD and Figma.
 
 ***
 
-📫 Email me at hello@ianwelerson.com  
+📫 Email me at hello@ianwelerson.com
 🎯 Website: https://ianwelerson.com  
 👤 LinkedIn: https://www.linkedin.com/in/ianwelerson  
 🐥 Twitter: http://twitter.com/ianwelerson  
