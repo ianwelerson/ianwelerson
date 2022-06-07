@@ -13,7 +13,7 @@ I have already realized integrations with RESTful APIs and Websockets, for short
 
 ***
 
-📫 Email me at hello@ianwelerson.com
+📫 Email me at hello@ianwelerson.com  
 🎯 Website: https://ianwelerson.com  
 👤 LinkedIn: https://www.linkedin.com/in/ianwelerson  
 🐥 Twitter: http://twitter.com/ianwelerson  
