@@ -1,15 +1,17 @@
 
 ### Hello from Brazil 🇧🇷
 
-Hi, my name is Ian Welerson.
+I'm Ian Welerson, a dedicated developer passionate about crafting exceptional user experiences. My professional journey began in full-stack development, where I honed my skills with Wordpress, Laravel, jQuery, and Bootstrap.
 
-I'm a front-end developer, graduated in Information System (FAESA), with 4+ years of experience.
+Transitioning to frontend development, I've immersed myself in HTML, CSS, JavaScript, and an array of tools, languages, and frameworks like Vue.js, Nuxt.js, Tailwind, Bootstrap, CSS pre-processors (LESS, SASS, SCSS), and TypeScript. These proficiencies lay the groundwork for creating intuitive interfaces.
 
-I started in development area as a full-stack developer, working specifically with Wordpress, Laravel, jQuery and Bootstrap. After a short period of time I migrated to the front-end area, getting more knowledge in HTML, CSS and JavaScript (vanilla).
+Expanding my expertise, I've ventured into backend projects using Node.js (utilizing frameworks like Nest.js and Express.js) and dived into integrations with GraphQL APIs, complementing my understanding of RESTful APIs.
 
-Currently I have knowledge in CSS pre-processors (LESS, SASS, SCSS), JavaScript (vanilla), JavaScript frameworks (Vue.js, Nuxt.js), CSS frameworks (Tailwind, Bootstrap), unit tests (Jest), E2E tests (Cypress), Docker, Git and GitHub Actions.
+With experience in Brazilian and US-based companies, I've gained a broad perspective on technological challenges, fostering adaptability across diverse work environments.
 
-I have already realized integrations with RESTful APIs and Websockets, for short period of time I worked as Node.js developer in a BFF (Back-end For Front-end) API. I also like UI/UX area and have some basic knowledge in Adobe XD and Figma.
+Additionally, my proficiency extends to testing tools like JEST and Cypress, ensuring the reliability and quality of my deliverables.
+
+Fueled by an enduring interest in UI/UX and bolstered by foundational knowledge in Adobe XD and Figma, I actively stay updated on industry trends, fostering a commitment to innovation.
 
 ***
 
