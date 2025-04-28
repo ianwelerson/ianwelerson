@@ -1,22 +1,16 @@
-
 ### Hello from Brazil 🇧🇷
 
-I'm Ian Welerson, a dedicated developer passionate about crafting exceptional user experiences. My professional journey began in full-stack development, where I honed my skills with Wordpress, Laravel, jQuery, and Bootstrap.
+I'm Ian Welerson, a frontend developer with over seven years of experience creating user-focused web applications.
 
-Transitioning to frontend development, I've immersed myself in HTML, CSS, JavaScript, and an array of tools, languages, and frameworks like Vue.js, Nuxt.js, Tailwind, Bootstrap, CSS pre-processors (LESS, SASS, SCSS), and TypeScript. These proficiencies lay the groundwork for creating intuitive interfaces.
+I work primarily with JavaScript, TypeScript, Vue.js, Svelte, Next.js, HTML, CSS, and SASS. I’m also experienced with testing frameworks like Jest, Vitest, Cypress, and Playwright, and UI libraries such as Tailwind, Shadcn, and Chart.js. I focus on writing maintainable code, optimizing performance, and building accessible, reliable interfaces.
 
-Expanding my expertise, I've ventured into backend projects using Node.js (utilizing frameworks like Nest.js and Express.js) and dived into integrations with GraphQL APIs, complementing my understanding of RESTful APIs.
+Beyond frontend development, I have experience with backend technologies including Node.js with Nest.js, GraphQL, WebSockets, RESTful APIs, and platforms like Supabase. I also work with modern development practices like Monorepo management using Turborepo and scalable architecture with Feature-Sliced Design (FSD).  
+In previous roles, I served as a Tech Lead and Head of Frontend, supporting team growth and technical direction.
 
-With experience in Brazilian and US-based companies, I've gained a broad perspective on technological challenges, fostering adaptability across diverse work environments.
+I've collaborated with teams across Brazil, the United States, and Australia, bringing a practical and adaptable approach to international projects.
 
-Additionally, my proficiency extends to testing tools like JEST and Cypress, ensuring the reliability and quality of my deliverables.
+---
 
-Fueled by an enduring interest in UI/UX and bolstered by foundational knowledge in Adobe XD and Figma, I actively stay updated on industry trends, fostering a commitment to innovation.
-
-***
-
-📫 Email me at hello@ianwelerson.com  
-🎯 Website: https://ianwelerson.com  
-👤 LinkedIn: https://www.linkedin.com/in/ianwelerson  
-🐥 Twitter: http://twitter.com/ianwelerson  
-💻 StackOverflow: https://stackoverflow.com/users/8883375/ian-welerson
+📫 Email: [hello@ianwelerson.com](mailto:hello@ianwelerson.com)  
+🌐 Website: [ianwelerson.com](https://ianwelerson.com)  
+👤 LinkedIn: [linkedin.com/in/ianwelerson](https://www.linkedin.com/in/ianwelerson)
