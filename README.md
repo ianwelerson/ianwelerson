@@ -1,4 +1,4 @@
-### Hello from Calgary, Canada 🇨🇦 (originally from Brazil 🇧🇷)
+### Hello from Calgary, Canada 🇨🇦
 
 I'm **Ian Welerson**, a **Frontend Engineer** with over seven years of experience building modern, user-focused web applications and SaaS platforms.
 
