@@ -1,13 +1,32 @@
 ### Hello from Calgary, Canada 🇨🇦
 
-I'm **Ian Welerson**, a **Frontend Engineer** with over seven years of experience building modern, user-focused web applications and SaaS platforms.
+I'm **Ian Welerson**, a **Software Engineer** with 8+ years of experience building
+web applications and SaaS platforms.
 
-I work mainly with **JavaScript, TypeScript, Vue.js, Svelte, Next.js, HTML, CSS, and SASS**, and I enjoy creating interfaces that are both reliable and easy to use. I also have solid experience with **testing tools** like **Jest, Vitest, Cypress, and Playwright**, and **UI libraries** such as **Tailwind, Shadcn, and Chart.js**. My focus is always on maintainable code, performance, and accessibility.
+I work mainly with **JavaScript and TypeScript**, using frameworks like **Vue.js,
+Svelte, and Next.js** to build reliable and maintainable interfaces.
 
-Beyond the frontend, I’ve worked with **backend technologies** including **Node.js, NestJS, GraphQL, WebSockets, REST APIs**, and **Supabase**. I’m also familiar with **monorepo setups** using **Turborepo** and scalable architecture patterns like **Feature-Sliced Design (FSD)**.
+I've worked on a range of products, from enterprise SaaS platforms and fintech
+products to internal tools and dashboards. I focus on structuring frontend codebases,
+improving performance, and keeping projects consistent as they grow.
 
-In past roles, I’ve taken on **Tech Lead** and **Head of Frontend** responsibilities - helping guide technical direction, improve development workflows, and mentor teammates.  
-Over the years, I’ve had the opportunity to collaborate with teams from **Brazil, the United States, and Australia**, gaining valuable experience working across different cultures and time zones.
+Alongside frontend work, I have experience with **Node.js**, **GraphQL**,
+**WebSockets**, **REST APIs**, and **Supabase**, contributing to integrations and
+backend features.
+
+In previous roles, I've taken on **Tech Lead** and **Head of Frontend**
+responsibilities across companies in **Brazil, the United States, and Australia**,
+supporting technical decisions, improving workflows, and staying hands-on with
+development across distributed teams.
+
+---
+
+### Stack
+
+**Frontend:** TypeScript, Vue.js, Svelte, Next.js, TailwindCSS, SASS  
+**Testing:** Vitest, Jest, Cypress, Playwright, Testing Library  
+**Backend:** Node.js, NestJS, GraphQL, REST, WebSockets, Supabase, PostgreSQL  
+**Architecture:** Feature-Sliced Design, Turborepo, Monorepos
 
 ---
 
